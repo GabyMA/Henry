@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    color:teal;
+}
+
+h3{
+    color:blueviolet;
+}
+
+img{
+    width: 400px;
+}
+
+div thirdDiv{
+    background-color: salmon;
+    width: 500px;
+    height: 600px;
+    border: 10px solid mediumvioletred;
+
+}
+
+span id{
+    margin: 50px;
+    font-size: 18px;
+}
