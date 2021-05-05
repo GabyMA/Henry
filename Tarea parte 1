@@ -1,0 +1,12 @@
+Parte 1: investigación
+
+Variable - es el elementos en donde almacenamos la información a utilizar
+
+Strings - nos permiten concatenar las variables
+
+Funciones (argumentos, return) - return especifica el valor que debe devolver la función;
+argumento es el nombre del valor que hay dentro la función o por asignar
+
+Declaraciones if - es la condicional para evalular o tomar decisiones
+
+Valores booleanos (true, false) - representa el tipo de dato del argumento
